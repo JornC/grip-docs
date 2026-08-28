@@ -3,7 +3,7 @@ Bekijk of de stikstofdepositie de kritische depositiewaarde overschrijdt, en hoe
 
 #### Selector
 
-Indien er geen natuurgebied is geselecteerd, wordt de informatie voor heel Nederland getoond. Een Natura 2000-gebied kan worden geselecteerd om de gebiedsinformatie weer te geven. Binnen een gebied kan een habitat gekozen worden om de ontwikkeling van de stikstofbelasting voor dat habitattype te tonen.
+Indien er geen natuurgebied is geselecteerd, wordt de informatie voor heel Nederland getoond. Een Natura 2000-gebied kan worden geselecteerd om de gebiedsinformatie weer te geven. Binnen een gebied kan een habitat gekozen worden om de ontwikkeling van de stikstofbelasting voor dat habitattype te tonen. Via de selector is het ook mogelijk om een dataset te kiezen. Een dataset verwijst naar een bepaalde monitoringsronde. 
 
 #### Grafiek
 
@@ -23,10 +23,10 @@ De mate van stikstofbelasting van de stikstofgevoelige natuur wordt onderverdeel
 
 #### Jaartallen
 
-De jaren zijn verdeeld in historische jaren, prognosejaren en doorkijkjaren. Voor ieder van deze jaren is de emissiedata op een andere manier tot stand gekomen. De data voor historische jaren is berekend met door het CBS verzamelde emissiestatistieken op een hoog ruimtelijk detailniveau. De prognosejaren zijn gebaseerd op emissieprognoses van het Planbureau voor de Leefomgeving, waarin bestaand beleid en economische ontwikkelingen worden meegenomen. De prognoses voor de doorkijkjaren kennen een grotere onzekerheid dan voor de prognosejaren, en daarom wordt voor deze jaren maar een beperkt aantal depositiestatistieken doorgerekend.
+Als een dataset prognosejaren bevat, zijn de jaren verdeeld in historische jaren, prognosejaren en doorkijkjaren. Voor ieder van deze jaren is de emissiedata op een andere manier tot stand gekomen. De data voor historische jaren is berekend met door het CBS verzamelde emissiestatistieken op een hoog ruimtelijk detailniveau. De prognosejaren zijn gebaseerd op emissieprognoses van het Planbureau voor de Leefomgeving, waarin bestaand beleid en economische ontwikkelingen worden meegenomen. De prognoses voor de doorkijkjaren kennen een grotere onzekerheid dan voor de prognosejaren, en daarom wordt voor deze jaren maar een beperkt aantal depositiestatistieken doorgerekend.
 
 #### Kaart
 
-Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Het meest gedetailleerde schaalniveau is zoom level 3 (16 ha). Wanneer wordt uitgezoomd tot zoom level 4, wordt voor deze hexagonen de data van het middelste zoom level 3 hexagoon getoond.
+Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Voor M25 is het meest gedetailleerde schaalniveau een zoom level 3 hexagoon (16 ha). Voor M26 is dit een zoom level 1 hexagoon (1 ha). Wanneer wordt uitgezoomd tot een hoger zoom level, wordt per hexagoon de waarde van het middelste onderliggende hexagoon gebruikt: op zoom level 3 voor M25 en op zoom level 1 voor M26.
 
 U vindt de uitleg van de methode voor het berekenen van de mate van stikstofbelasting in paragraaf 5.5 van het [handboek Data](https://link.aerius.nl/monitor/handboeken).

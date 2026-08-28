@@ -10,11 +10,14 @@ Om een beeld te krijgen van de stikstofproblematiek in relatie tot natuur, worde
 
 - **De relatie tussen stikstofgevoelige habitattypen en depositie:** AERIUS Monitor combineert de beschikbare natuurgegevens (hoe stikstofgevoelig is een habitattype) met de berekende depositiegegevens. Zo geeft AERIUS Monitor direct inzicht in de mate van overbelasting binnen Natura 2000-gebieden of op specifieke hexagonen. Dit maakt inzichtelijk op welke van de relevante hexagonen daadwerkelijk sprake is van een (bijna) overbelaste situatie, en voor welke habitattypen dat dan geldt.
 
+### Twee datasets
+- Monitor 2026 bevat twee datasets: M25 en M26. **M26** heeft als referentiejaar 2026 en bevat gegevens op zoom level 1. **M25** heeft als referentiejaar 2025, bevat daarnaast prognosejaren en bevat gegevens op zoom level 3. M25 is de dataset die voorheen werd gebruikt voor Monitor 2025. In de selector is het mogelijk om een dataset te selecteren.
+
 ### Gegevens exporteren 
 
 De gegevens in AERIUS Monitor zijn als JSON en als GeoPackage te downloaden. 
-* Download hier een [GeoPackage](https://link.aerius.nl/monitor/geopackage-monitor-2025.zip) met voor ieder zoom level 3 hexagoon de KDW en de stikstofbelasting per jaar.
-* Om zelf analyses uit te voeren met gegevens, gebruik de Monitor API (een programmeerinterface). Ga naar de [AERIUS Monitor API](https://fame2025.aerius.nl/api/swagger-ui/index.html) om de gegevens die AERIUS Monitor gebruikt, te downloaden als JSON.
+* Download hier [GeoPackage (2025)](https://link.aerius.nl/monitor/geopackage-monitor-2025.zip) en [GeoPackage (2026)](https://link.aerius.nl/monitor/geopackage-monitor-2026.zip). Geopackage 2025 bevat voor ieder zoom level 3 hexagoon de KDW en de stikstofbelasting per jaar. Geopackage 2026 bevat voor ieder zoom level 1 hexagoon de KDW en de stikstofbelasting voor het referentiejaar. 
+* Om zelf analyses uit te voeren met gegevens, gebruik de Monitor API (een programmeerinterface). Ga naar de [AERIUS Monitor API](https://fame2026.aerius.nl/api/swagger-ui/index.html) om de gegevens die AERIUS Monitor gebruikt, te downloaden als JSON.
 
 ### Voorkeuren instellen
 
@@ -23,3 +26,5 @@ Klik rechtsboven op 'Voorkeur' om instellingen aan te passen.
 * Kies om wel of geen depositiecijfers op de kaart te zien bij inzoomen
 
 Voor elke kaart afzonderlijk kunt u de weergave aanpassen via het kaartlagenpaneel: vink kaartlagen aan of uit, en selecteer een andere (achtergrond)kaart uit de keuzelijst.
+
+De grafieken gebruiken standaard waarden in kg. Onder voorkeuren kan de weergave aangepast worden naar waarden in mol. Hierdoor kunnen de waardestappen op de x-as minder logisch worden weergegeven.
