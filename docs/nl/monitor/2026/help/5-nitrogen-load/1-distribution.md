@@ -16,6 +16,6 @@ Onder de tabel staan alle stikstofdeposities van het gebied uiteengezet in een g
 
 #### Kaart
 
-Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Voor M25 is het meest gedetailleerde schaalniveau een hexagoon van 16 hectare. Voor M26 is dit een hexagoon van 1 hectare. Wanneer verder wordt uitgezoomd, wordt per hexagoon de waarde van het middelste onderliggende hexagoon getoond.
+Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Voor M25 is het meest gedetailleerde schaalniveau een zoom level 3 hexagoon (16 ha). Voor M26 is dit een zoom level 1 hexagoon (1 ha). Wanneer wordt uitgezoomd tot een hoger zoom level, wordt per hexagoon de waarde van het middelste onderliggende hexagoon gebruikt: op zoom level 3 voor M25 en op zoom level 1 voor M26.
 
 U vindt de uitleg van de methode voor het berekenen van de mate van stikstofbelasting in paragraaf 5.5 van het [handboek Data](https://www.aeriusproducten.nl/documenten).
