@@ -12,7 +12,7 @@ Om een beeld te krijgen van de stikstofproblematiek in relatie tot natuur, worde
 
 ### Twee datasets
 
-Monitor 2026 bevat twee datasets: M25 en M26. **M26** heeft als referentiejaar 2026 en bevat gegevens op zoom level 1. **M25** heeft als referentiejaar 2025, bevat daarnaast prognosejaren en bevat gegevens op zoom level 3. M25 is de dataset die voorheen werd gebruikt voor Monitor 2025. In de selector is het mogelijk om een dataset te selecteren.
+Monitor 2026 bevat twee datasets: M25 en M26. **M26** heeft als referentiejaar 2024 en bevat gegevens op hexagonen van 1 ha (zoom level 1). **M25** heeft als referentiejaar 2023, bevat daarnaast prognosejaren en bevat gegevens op hexagonen van 16 ha (zoom level 3). M25 is de dataset die voorheen werd gebruikt voor Monitor 2025. In de selector is het mogelijk om een dataset te selecteren.
 
 ### Gegevens exporteren 
 
