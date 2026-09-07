@@ -11,7 +11,8 @@ Om een beeld te krijgen van de stikstofproblematiek in relatie tot natuur, worde
 - **De relatie tussen stikstofgevoelige habitattypen en depositie:** AERIUS Monitor combineert de beschikbare natuurgegevens (hoe stikstofgevoelig is een habitattype) met de berekende depositiegegevens. Zo geeft AERIUS Monitor direct inzicht in de mate van overbelasting binnen Natura 2000-gebieden of op specifieke hexagonen. Dit maakt inzichtelijk op welke van de relevante hexagonen daadwerkelijk sprake is van een (bijna) overbelaste situatie, en voor welke habitattypen dat dan geldt.
 
 ### Twee datasets
-- Monitor 2026 bevat twee datasets: M25 en M26. **M26** heeft als referentiejaar 2026 en bevat gegevens op zoom level 1. **M25** heeft als referentiejaar 2025, bevat daarnaast prognosejaren en bevat gegevens op zoom level 3. M25 is de dataset die voorheen werd gebruikt voor Monitor 2025. In de selector is het mogelijk om een dataset te selecteren.
+
+Monitor 2026 bevat twee datasets: M25 en M26. **M26** heeft als referentiejaar 2026 en bevat gegevens op zoom level 1. **M25** heeft als referentiejaar 2025, bevat daarnaast prognosejaren en bevat gegevens op zoom level 3. M25 is de dataset die voorheen werd gebruikt voor Monitor 2025. In de selector is het mogelijk om een dataset te selecteren.
 
 ### Gegevens exporteren 
 
